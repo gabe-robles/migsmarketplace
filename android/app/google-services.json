@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "1059782114940",
+    "firebase_url": "https://migs-marketplace.firebaseio.com",
+    "project_id": "migs-marketplace",
+    "storage_bucket": "migs-marketplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059782114940:android:e41db809e38ec8933f53f9",
+        "android_client_info": {
+          "package_name": "com.migsmarketplace.migscourier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059782114940-pae2a58aiq7av8beh7omkm34pjuec7n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Y5R8qh9Vbm9c43FykHHd4lIEPdWjQMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059782114940-pae2a58aiq7av8beh7omkm34pjuec7n4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059782114940-j61ia7scq8ec8gc2lko2lgf6vaje88ko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.migsmarketplace.migscourier"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059782114940:android:b67a94c6c7a350353f53f9",
+        "android_client_info": {
+          "package_name": "com.migsmarketplace.migsmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059782114940-pae2a58aiq7av8beh7omkm34pjuec7n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Y5R8qh9Vbm9c43FykHHd4lIEPdWjQMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059782114940-pae2a58aiq7av8beh7omkm34pjuec7n4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059782114940-j61ia7scq8ec8gc2lko2lgf6vaje88ko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.migsmarketplace.migscourier"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059782114940:android:0ecdcbf20f077d983f53f9",
+        "android_client_info": {
+          "package_name": "com.migsmarketplace.migsmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059782114940-pae2a58aiq7av8beh7omkm34pjuec7n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Y5R8qh9Vbm9c43FykHHd4lIEPdWjQMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059782114940-pae2a58aiq7av8beh7omkm34pjuec7n4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1059782114940-j61ia7scq8ec8gc2lko2lgf6vaje88ko.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.migsmarketplace.migscourier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

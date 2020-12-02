@@ -1,0 +1,52 @@
+name: migsmarketplace
+description: Migs Customer Application
+
+publish_to: 'none'
+
+version: 1.0.0+2
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  flutter_launcher_icons: ^0.8.1
+  flutter_local_notifications: ^3.0.1+6
+  font_awesome_flutter: ^8.10.0
+  modal_progress_hud: ^0.1.3
+  url_launcher: ^5.7.10
+  flutter_slidable: ^0.5.7
+  provider: ^4.3.2+2
+  firebase_core: ^0.5.2+1
+  firebase_auth: ^0.18.3+1
+  firebase_messaging: ^7.0.3
+  cloud_firestore: ^0.14.3+1
+  rxdart: ^0.24.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/icon.jpg"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/icon.png
+    - assets/images/icon.jpg
+
+  fonts:
+    - family: Biryani
+      fonts:
+        - asset: assets/fonts/Biryani-Regular.ttf
+        - asset: assets/fonts/Biryani-Bold.ttf
+          weight: 700
+
